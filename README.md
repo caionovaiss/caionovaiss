@@ -29,7 +29,7 @@
 <!-- Stats -->
 <div align="center" >
 <pre>
-<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaiss&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=caionovaiss&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"/>
 </pre>
 </div>
 
@@ -38,9 +38,9 @@
 
 <div align="right" >
   
-[![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/gianemayumi)
-[![](https://img.shields.io/badge/Website-696af5)](https://anemaygi.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/caionovaiss)
+[![](https://img.shields.io/badge/Website-696af5)](https://caionovaiss.github.io/)
 [![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
-[![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/anemaygi)
+[![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/caionovaiss)
 
 </div>
