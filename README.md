@@ -1,10 +1,46 @@
-<h1 align="center">Hi 👋, I'm Caio Novais da Silva</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<!-- Welcome to my profile code :) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- Hi there text -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center" >
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=AE81CE&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)
+
+</div>
+
+
+<!-- Side Image -->
+
+<img src="https://i.imgur.com/B72xOeX.png" width="25%" align="right" />
+
+
+<!-- Introduction -->
+
+<pre>
+  👩‍💻 I'm Caio Novais
+
+  📍 Edmonton, Alberta - Canada
+  📚 Information Systems @ USP
+  💼 Itern @ University of Alberta
+  💻 Data Science • Backend 
+</pre>
+
+
+<!-- Stats -->
+<div align="center" >
+<pre>
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"/>
+</pre>
+</div>
+
+
+<!-- Hyperlinks -->
+
+<div align="right" >
+  
+[![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/gianemayumi)
+[![](https://img.shields.io/badge/Website-696af5)](https://anemaygi.github.io/)
+[![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
+[![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/anemaygi)
+
+</div>
