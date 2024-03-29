@@ -7,13 +7,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=AE81CE&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)
 
 </div>
-
-
-<!-- Side Image -->
-
-<img src="https://i.imgur.com/B72xOeX.png" width="25%" align="right" />
-
-
 <!-- Introduction -->
 
 <pre>
