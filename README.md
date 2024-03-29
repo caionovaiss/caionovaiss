@@ -22,11 +22,6 @@
 <!-- Stats -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<div align="center" >
-<pre>
-<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaiss&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=caionovaiss&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"/>
-</pre>
-</div>
 
 
 <!-- Hyperlinks -->
