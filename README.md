@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Novais da Silva</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working at **University of Alberta, Canada**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
