@@ -31,9 +31,6 @@
 
 <div align="right" >
   
-[![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/caionovaiss)
-[![](https://img.shields.io/badge/Website-696af5)](https://caionovaiss.github.io/)
-[![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
-[![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/caionovaiss)
+
 
 </div>
