@@ -15,7 +15,7 @@
   📍 Edmonton, Alberta - Canada
   📚 Information Systems @ USP
   💼 Itern @ University of Alberta
-  💻 Data Science • Backend 
+  💻 Data Engineering • Backend 
 </pre>
 
 
