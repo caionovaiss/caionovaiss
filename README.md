@@ -12,7 +12,7 @@
 <pre>
   👩‍💻 I'm Caio Novais
 
-  📍 Edmonton, Alberta - Canada
+  📍 São Paulo, SP - Brazil
   📚 Information Systems @ USP
   💼 Itern @ University of Alberta
   💻 Data Engineering • Backend 
