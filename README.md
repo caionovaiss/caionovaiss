@@ -10,7 +10,7 @@
 <!-- Introduction -->
 
 <pre>
-  👩‍💻 I'm Caio Novais
+  👩‍💻 I'm Caio Novais, a software developer passionate about collaborating on impactful projects
 
   📍 São Paulo, SP - Brazil
   📚 Information Systems @ USP
